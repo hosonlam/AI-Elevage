@@ -1,0 +1,30 @@
+Movie Night
+Category: Entertainment
+Speakers: Leo & Nina
+Leo: Have you seen The Last Horizon yet?
+Nina: Not yet! Is it as good as the trailer made it look?
+Leo: Even better. The visuals are stunning and the story is super emotional.
+Nina: Sounds like a tearjerker.
+Leo: A little, yeah. But also really inspiring. You should watch it in IMAX if you can.
+Nina: I’ll book tickets for this weekend. Thanks for the recommendation!
+
+#### Output:
+
+Meeting Summary: Movie Night
+
+Category: Entertainment
+Speakers: Leo & Nina
+
+Key Points:
+
+Leo recommends the movie "The Last Horizon" to Nina.
+Nina has not seen the movie yet and inquires about its quality compared to the trailer.
+Leo describes the movie as having stunning visuals and an emotional story, indicating it is both a tearjerker and inspiring.
+Leo suggests watching it in IMAX for the best experience.
+Decisions:
+
+Nina decides to book tickets to see "The Last Horizon" this weekend.
+Action Items:
+
+Nina will book IMAX tickets for "The Last Horizon" for the upcoming weekend.
+ 

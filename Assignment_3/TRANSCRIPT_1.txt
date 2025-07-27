@@ -1,0 +1,25 @@
+Vacation Planning
+Category: Travel
+Speakers: Alex & Jamie
+Alex: Hey Jamie, have you decided where you want to go for vacation this year?
+Jamie: I’m thinking Bali. I’ve heard the beaches are amazing and the food is incredible.
+Alex: Bali sounds awesome! Are you planning to stay in a resort or go for something more local?
+Jamie: Probably a mix. I want to experience the culture but also relax a bit.
+Alex: Good call. Don’t forget to check out Ubud and the rice terraces. They’re stunning.
+Jamie: Definitely on my list. I’ll start looking at flights this weekend.
+
+#### Output:
+
+Meeting Summary: Vacation Planning
+
+Key Points:
+
+Jamie is considering Bali for vacation due to its beautiful beaches and great food.
+Plans to have a mix of accommodation, experiencing local culture while also relaxing.
+Alex recommends visiting Ubud and the rice terraces.
+Decisions:
+
+Jamie has decided on Bali as the vacation destination.
+Action Items:
+
+Jamie will start looking at flights to Bali this weekend.

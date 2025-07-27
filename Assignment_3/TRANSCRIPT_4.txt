@@ -1,0 +1,25 @@
+Food & Cooking
+Category: Food
+Speakers: Mia & Jordan
+Mia: I tried making Vietnamese pho at home yesterday.
+Jordan: No way! How did it turn out?
+Mia: Surprisingly good. The broth took hours, but it was worth it.
+Jordan: Did you use beef or chicken?
+Mia: Beef. I even roasted the bones first for extra flavor.
+Jordan: That’s legit. Next time, invite me over—I’ll bring spring rolls!
+
+#### Output:
+Meeting Summary: Food & Cooking
+
+Key Points:
+
+Mia attempted to make Vietnamese pho at home.
+The broth preparation was time-consuming but yielded good results.
+Mia used beef for the pho and roasted the bones for added flavor.
+Decisions:
+
+Jordan expressed interest in joining Mia for a future cooking session.
+Action Items:
+
+Mia will invite Jordan over for a cooking session next time she makes pho.
+Jordan will bring spring rolls to complement the meal.

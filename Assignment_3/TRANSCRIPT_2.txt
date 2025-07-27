@@ -1,0 +1,26 @@
+Sports Talk
+Category: Sports
+Speakers: Chris & Taylor
+Chris: Did you catch the football match last night?
+Taylor: Yeah! That last-minute goal was insane. I didn’t think they’d pull it off.
+Chris: Same here. The defense was shaky, but the offense really stepped up.
+Taylor: I’m starting to think they might actually make it to the finals this year.
+Chris: If they keep playing like that, for sure. Next match is against a tough team though.
+Taylor: True. Let’s see how they handle the pressure.
+
+#### Output:
+
+Meeting Summary: Sports Talk
+
+Key Points:
+
+Discussion about a recent football match.
+Notable moment: a last-minute goal that surprised both speakers.
+Observations on team performance: shaky defense but strong offense.
+Optimism about the team's chances of making it to the finals.
+Decisions:
+
+None explicitly stated during the conversation.
+Action Items:
+
+Monitor the team's performance in the upcoming match against a tough opponent.

@@ -1,0 +1,30 @@
+Gaming Chat
+Category: Video Games
+Speakers: Sam & Riley
+Sam: Have you tried the new expansion for Elden Realms yet?
+Riley: Just started it last night. The new map is huge!
+Sam: I know, right? And the boss fights are way harder than before.
+Riley: I got wrecked by the Shadow Serpent. Took me three tries.
+Sam: Haha, same! I had to switch up my gear and strategy.
+Riley: It’s challenging but so rewarding. Let’s team up this weekend?
+
+#### Output
+
+Meeting Summary: Gaming Chat
+
+Category: Video Games
+Speakers: Sam & Riley
+
+Key Points:
+
+Discussion about the new expansion for Elden Realms.
+Riley has just started the expansion and noted the large new map.
+Both speakers agree that the boss fights are significantly more difficult.
+Riley experienced difficulty with the Shadow Serpent boss, requiring three attempts to defeat.
+Sam also had to adjust gear and strategy to succeed in the game.
+Decisions:
+
+Sam and Riley decided to team up for gaming this weekend.
+Action Items:
+
+Coordinate a time to play together over the weekend.
